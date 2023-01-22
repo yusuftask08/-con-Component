@@ -1,7 +1,7 @@
 # Vue-icon-component
 ## Youtube Video
 
-[![ReactToastNotification](https://img.youtube.com/vi/0bA6A9k03g4/0.jpg)](https://www.youtube.com/watch?v=0bA6A9k03g4)
+[![VueIconComponent](https://img.youtube.com/vi/0bA6A9k03g4/0.jpg)](https://www.youtube.com/watch?v=0bA6A9k03g4)
 
 ## Project setup
 ```
